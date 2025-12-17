@@ -1,0 +1,7 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold pyramid triangle -->
+  <path d="M16 2L26 18H6L16 2Z" fill="#C5A059"/>
+  <!-- Dark base bands -->
+  <path d="M4 20H28L30 24H2L4 20Z" fill="#1F2937"/>
+  <path d="M1 26H31L32 30H0L1 26Z" fill="#1F2937"/>
+</svg>
